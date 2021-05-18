@@ -114,8 +114,12 @@ Project**. Note: This is a different type of project from the Device Access proj
 
 1. You should now be presented with an *OAuth client created* message. Take note of *Your Client ID* and *Your Client Secret* as these are needed for Home Assistant set up.
     ![Screenshot of OAuth Client ID and Client Secret](/images/integrations/nest/oauth_created.png)
+    
+1. Now click on Device Access Console - https://console.nest.google.com/device-access
 
-1. Now head back to the *Device Access Console* tab and *Add your OAuth client ID* then click **Next**.
+1. You will be asked to create another project. (name it something different)  then click **Next**
+
+1. *Add your OAuth client ID* then click **Next**.
     ![Screenshot of Device Access Console OAuth client ID](/images/integrations/nest/device_access_oauth_client_id.png)
 
 1. Enable Events by clicking on **Enable** and **Create project**.
